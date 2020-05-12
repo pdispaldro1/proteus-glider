@@ -5,6 +5,10 @@ Glider microdrone based on an Arduino Nano shield. Fully Open Source, designed w
 THIS REPOSITORY WILL BE UNDER CONSTANT UPDATE AND THE LOG ABOUT THE UPDATE WILL BE AT THE BEGINNING OF THIS README
 -
 
+UPDATES
+-
+12/02/2020: added datalogger code based on Adafruit BMP388 sensor, DS3231 RTC and Micro SD shield
+
 PURPOSES:
 -
 This microdrone has exclusively measurements and relevations purposes. No espionage or freedom offense uses are allowed.
@@ -21,6 +25,7 @@ LiDAR Benewake TFMini001
 BMP388 sensor
 GY-91 sensor
 CR2032 battery
+DS3231 RTC
 Chassis and wings (of course)
 
 ABOUT CHASSIS
