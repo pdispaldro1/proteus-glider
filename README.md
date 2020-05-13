@@ -1,4 +1,4 @@
-PROTEUS MICRGLIDER
+PROTEUS MICROGLIDER
 -
 Glider microdrone based on an Arduino Nano shield. Fully Open Source, designed with FreeCAD.
 
