@@ -9,6 +9,8 @@ UPDATES
 -
 12/05/2020: added Arduino code for datalogger based on BMP388 sensor, DS3231 RTC and Micro SD shield.
 
+13/05/2020: added code for 2 Servo remote control.
+
 PURPOSES:
 -
 This microdrone has exclusively measurements and relevations purposes. No espionage or freedom offense uses are allowed.
