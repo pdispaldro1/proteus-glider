@@ -13,6 +13,8 @@ UPDATES
 
 16/05/2020: added code for basic scanning Benewake TF Mini LiDAR.
 
+16/05/2020: added code for GPS module.
+
 
 PURPOSES:
 -
