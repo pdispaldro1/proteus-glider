@@ -11,6 +11,9 @@ UPDATES
 
 13/05/2020: added code for 2 Servo remote control.
 
+16/05/2020: added code for basic scanning Benewake TF Mini LiDAR.
+
+
 PURPOSES:
 -
 This microdrone has exclusively measurements and relevations purposes. No espionage or freedom offense uses are allowed.
